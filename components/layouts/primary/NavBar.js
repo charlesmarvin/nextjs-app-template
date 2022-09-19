@@ -5,15 +5,15 @@ export default function NavBar() {
   return (
     <header>
       <nav>
-        <a href="/">
+        <Link href={'/'}>
           <Image src={'/vercel.svg'} alt="Vercel" width={72} height={16} />
-        </a>
+        </Link>
         <ul>
           <li>
-            <Link href={'/'}>link a</Link>
+            <Link href={'/'}>dashboard</Link>
           </li>
           <li>
-            <Link href={'/'}>link b</Link>
+            <Link href={'/account'}>account</Link>
           </li>
         </ul>
       </nav>
