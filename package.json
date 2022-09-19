@@ -41,8 +41,8 @@
     "util": "^0.12.4"
   },
   "engines": {
-    "node": ">=16.14.0",
-    "yarn": ">=1.22.0",
+    "node": "16.x",
+    "yarn": "1.x",
     "npm": "npm-not-supported--use-yarn"
   },
   "resolutions": {
