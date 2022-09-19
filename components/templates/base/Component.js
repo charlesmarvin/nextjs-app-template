@@ -1,11 +1,7 @@
 import styles from './Component.module.css'
 
-const Component = ({ sampleTextProp }) => {
-  return (
-    <div className={styles.container}>
-      This is a Component - {sampleTextProp}
-    </div>
-  )
+const Component = ({ templateText }) => {
+  return <div className={styles.container}>{templateText}</div>
 }
 
 export default Component

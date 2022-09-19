@@ -1,5 +1,5 @@
 const base = {
-  sampleTextProp: 'Hello world!',
+  templateText: 'Hello world!',
 }
 
 export const mockComponentProps = {
