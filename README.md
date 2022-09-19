@@ -1,4 +1,8 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) but updated with some standards I like using for new projects.
+
+The intent is that this repo be forked when starting new projects.
+
+This repo was based on this [tutorial](https://github.com/alexeagleson/nextjs-fullstack-app-template)
 
 ## Getting Started
 
