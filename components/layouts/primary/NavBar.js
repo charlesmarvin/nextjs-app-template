@@ -6,7 +6,12 @@ export default function NavBar() {
     <header>
       <nav>
         <Link href={'/'}>
-          <Image src={'/vercel.svg'} alt="Vercel" width={72} height={16} />
+          <Image
+            src={'/icons/favicon.svg'}
+            alt="Logo TPL"
+            width={24}
+            height={24}
+          />
         </Link>
         <ul>
           <li>

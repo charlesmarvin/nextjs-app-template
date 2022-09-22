@@ -44,3 +44,7 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 Changes to this template project get deployed via [Vercel Platform](https://vercel.com/) to [https://nextjs-app-template-ten.vercel.app](https://nextjs-app-template-ten.vercel.app)
 
 Check out the [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+## Icon Generation
+
+Icons for PWA generated via [https://cthedot.de/icongen](https://cthedot.de/icongen)

@@ -1,0 +1,19 @@
+<svg
+  version="1.1"
+  xmlns="http://www.w3.org/2000/svg"
+  xmlns:xlink="http://www.w3.org/1999/xlink" 
+  width="90" height="90">
+
+  <style>
+      .s { fill: var(--color-text) } 
+  </style>
+
+  <defs>
+    <clipPath id="cut-off-x">
+      <rect x="50" y="0" width="20" height="90" />
+    </clipPath>
+  </defs>
+
+  <circle class="s" cx="70" cy="45" r="20" clip-path="url(#cut-off-x)" />
+  <rect class="s" width="40" height="40" y="25" /> 
+</svg>
