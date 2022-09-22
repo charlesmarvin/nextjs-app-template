@@ -5,7 +5,7 @@
   width="90" height="90">
 
   <style>
-      .s { fill: var(--color-text) } 
+      .s { fill: currentColor } 
   </style>
 
   <defs>
